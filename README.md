@@ -2,7 +2,8 @@
 
 ## 游戏简介
 开心消消乐是一款基于HTML5 Canvas开发的经典三消消除类游戏，支持100个精心设计的关卡、自由模式、丰富的消除特效与音效、进度自动保存，适配PC和移动端。所有核心逻辑、界面与资源均集成于单一HTML文件，开箱即用。
-https://qingfeng123-www.github.io/loveXXL/点击即可开玩
+https://qingfeng123-www.github.io/loveXXL/
+点击即可开玩
 
 ---
 
@@ -169,4 +170,5 @@ https://qingfeng123-www.github.io/loveXXL/点击即可开玩
 ---
 
 🎮 祝您游戏愉快！如有建议欢迎反馈与改进。
+
 
